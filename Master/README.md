@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Primera prueba</title>
+		<title>Segunda prueba</title>
 	</head>
 	<body>
 	</body>
